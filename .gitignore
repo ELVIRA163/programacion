@@ -1,0 +1,32 @@
+ELVIRA - Sistema de Gestión de Restaurante en Python (POO)
+
+ Autor
+Elvira
+Descripción
+ELVIRA es un sistema básico de restaurante desarrollado en Python aplicando Programación Orientada a Objetos y estructura modular.
+
+Permite registrar productos y clientes, demostrando el uso de clases, objetos, constructores y métodos especiales.
+Estructura del proyecto
+
+ELVIRA/
+├── modelos/
+│   ├── producto.py
+│   └── cliente.py
+│
+├── servicios/
+│   └── restaurante.py
+│
+└── main.pFuncionalidades
+- Registro de productos
+- Registro de clientes
+- Gestión centralizada del restaurante
+- Uso de __str__ para mostrar datos
+
+ Tecnologías
+- Python 3
+- Programación Orientada a Objetos
+- Modularización
+
+## 🚀 Ejecución
+```bash
+python main.py
